@@ -1,0 +1,16 @@
+{
+  "description": "Subdomain For My Personal Blog",
+  "domain": "nlcanvas.is-a.dev",
+  "owner": {
+    "Username": "nlcanvas"
+    "email": "nichl.23211@gmail.com"
+  },
+  "records": {
+    "CNAME": [
+      {
+        "name": "www",
+        "value": "ghs.google.com"
+      }
+    ]
+  }
+}
